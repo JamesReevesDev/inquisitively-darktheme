@@ -12,7 +12,7 @@ Languages I use and checked the theme for:
 ----------
 1. Python
 ----------
-![alt](./images/python_example.png)
+![alt](./images/py_example.png)
 
 ----------
 2. HTML
