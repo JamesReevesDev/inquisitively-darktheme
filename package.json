@@ -1,0 +1,23 @@
+{
+    "name": "inquisitively-dark-theme",
+    "publisher": "jamesReevesCodes",
+    "displayName": "Inquisitively Dark Theme",
+    "description": "The dark theme that is used on the https://www.inquisitively.io website.",
+    "version": "0.0.2",
+    "icon": "images/inquisitively_logo.png",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "inquisitively theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inquisitively theme-color-theme.json"
+            }
+        ]
+    }
+}
