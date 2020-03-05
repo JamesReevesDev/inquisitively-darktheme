@@ -4,6 +4,7 @@
     "displayName": "Inquisitively Dark Theme",
     "description": "The dark theme that is used on the https://www.inquisitively.io website.",
     "version": "0.0.2",
+    "repository": "https://github.com/JamesReevesDev/inquisitively-darktheme",
     "icon": "images/inquisitively_logo.png",
     "engines": {
         "vscode": "^1.42.0"
